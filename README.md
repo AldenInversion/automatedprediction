@@ -10,3 +10,5 @@ For the command Predict.py: edit as necessary.
 
 t.awk file needs to be in the same folder as brain_predict.sh.
 
+
+To change which genees are extracted, edit the variables listed here: cols=ENS00000XXXX, ENS0000000YYYYY, ....
